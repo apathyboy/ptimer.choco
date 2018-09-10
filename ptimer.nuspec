@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ptimer</id>
+    <version>1.0.2</version>
+    <packageSourceUrl>https://github.com/apathyboy/ptimer.choco</packageSourceUrl>
+    <owners>apathyboy</owners>
+    <title>ptimer</title>
+    <authors>Eric Scott Barr</authors>
+    <projectUrl>https://github.com/apathyboy/ptimer</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/apathyboy/ptimer</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/apathyboy/ptimer/issues</bugTrackerUrl>
+    <tags>ptimer ptime time command cli tools utilities timer timing</tags>
+    <summary>A process timing utility for windows.</summary>
+    <description>A process timer similar to ptime sans banner text.</description>
+  </metadata>
+</package>
